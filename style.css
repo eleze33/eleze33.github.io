@@ -1,11 +1,11 @@
+
+body{
+   background-color: black;
+}
 .h1{
     background-color: black;
     height: 50px;
     width: auto;
     color: white;
     text-align: center;
-
-}
-body{
-   background-color: black;
 }
